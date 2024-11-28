@@ -1,0 +1,17 @@
+{
+  "name": "simple-meme-generator",
+  "version": "0.0.1",
+  "description": "simple meme generator with responsible canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm exec live-server"
+  },
+  "author": "self-related",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "eslint": "^9.15.0",
+    "globals": "^15.12.0"
+  }
+}
